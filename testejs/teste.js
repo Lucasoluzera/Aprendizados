@@ -1,0 +1,2 @@
+var valor;
+valor = null;

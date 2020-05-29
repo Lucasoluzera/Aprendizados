@@ -1,0 +1,24 @@
+/* You can add global styles to this file, and also import other style files */
+
+html, body { height: 100%; }
+body { margin: 0; font-family: Roboto, "Helvetica Neue", sans-serif; }
+
+
+.buttonRed{
+    background-color: #f14141;
+    color: white;
+    float: right;
+}
+
+.buttonCancelar{
+    float: right;
+}
+
+.buttonGreen{
+    background-color: limegreen;
+    color: white;
+}
+
+.v-middle{
+    vertical-align: middle;
+}

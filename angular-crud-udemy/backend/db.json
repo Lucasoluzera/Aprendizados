@@ -1,0 +1,39 @@
+{
+  "products": [
+    {
+      "id": 2,
+      "name": "Ingresso EXPO Araçatuba 2020",
+      "price": 45
+    },
+    {
+      "id": 3,
+      "name": "Ingresso Calourada Toledo 2020",
+      "price": "42"
+    },
+    {
+      "name": "dsada",
+      "price": "12312",
+      "id": 4
+    },
+    {
+      "name": "Role na casa do brunao churras",
+      "price": "10",
+      "id": 5
+    },
+    {
+      "name": "Role na casa do brunao churras",
+      "price": "10",
+      "id": 7
+    },
+    {
+      "name": "Role na casa do brunao churras",
+      "price": "10",
+      "id": 8
+    },
+    {
+      "name": "Role na casa do brunao",
+      "price": "12",
+      "id": 9
+    }
+  ]
+}
