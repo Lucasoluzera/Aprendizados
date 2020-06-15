@@ -1,0 +1,13 @@
+C:\Users\jacki\source\repos\Questao 19\obj\Debug\netcoreapp3.1\Questao 19.csprojAssemblyReference.cache
+C:\Users\jacki\source\repos\Questao 19\obj\Debug\netcoreapp3.1\Questao 19.csproj.CoreCompileInputs.cache
+C:\Users\jacki\source\repos\Questao 19\obj\Debug\netcoreapp3.1\Questao 19.AssemblyInfoInputs.cache
+C:\Users\jacki\source\repos\Questao 19\obj\Debug\netcoreapp3.1\Questao 19.AssemblyInfo.cs
+C:\Users\jacki\source\repos\Questao 19\bin\Debug\netcoreapp3.1\Questao 19.exe
+C:\Users\jacki\source\repos\Questao 19\bin\Debug\netcoreapp3.1\Questao 19.deps.json
+C:\Users\jacki\source\repos\Questao 19\bin\Debug\netcoreapp3.1\Questao 19.runtimeconfig.json
+C:\Users\jacki\source\repos\Questao 19\bin\Debug\netcoreapp3.1\Questao 19.runtimeconfig.dev.json
+C:\Users\jacki\source\repos\Questao 19\bin\Debug\netcoreapp3.1\Questao 19.dll
+C:\Users\jacki\source\repos\Questao 19\bin\Debug\netcoreapp3.1\Questao 19.pdb
+C:\Users\jacki\source\repos\Questao 19\obj\Debug\netcoreapp3.1\Questao 19.dll
+C:\Users\jacki\source\repos\Questao 19\obj\Debug\netcoreapp3.1\Questao 19.pdb
+C:\Users\jacki\source\repos\Questao 19\obj\Debug\netcoreapp3.1\Questao 19.genruntimeconfig.cache

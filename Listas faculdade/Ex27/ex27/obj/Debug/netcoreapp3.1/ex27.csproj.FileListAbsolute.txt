@@ -1,0 +1,13 @@
+C:\Users\Bruno\Documents\evandro\exercicios\ex27\ex27\bin\Debug\netcoreapp3.1\ex27.exe
+C:\Users\Bruno\Documents\evandro\exercicios\ex27\ex27\bin\Debug\netcoreapp3.1\ex27.deps.json
+C:\Users\Bruno\Documents\evandro\exercicios\ex27\ex27\bin\Debug\netcoreapp3.1\ex27.runtimeconfig.json
+C:\Users\Bruno\Documents\evandro\exercicios\ex27\ex27\bin\Debug\netcoreapp3.1\ex27.runtimeconfig.dev.json
+C:\Users\Bruno\Documents\evandro\exercicios\ex27\ex27\bin\Debug\netcoreapp3.1\ex27.dll
+C:\Users\Bruno\Documents\evandro\exercicios\ex27\ex27\bin\Debug\netcoreapp3.1\ex27.pdb
+C:\Users\Bruno\Documents\evandro\exercicios\ex27\ex27\obj\Debug\netcoreapp3.1\ex27.csprojAssemblyReference.cache
+C:\Users\Bruno\Documents\evandro\exercicios\ex27\ex27\obj\Debug\netcoreapp3.1\ex27.csproj.CoreCompileInputs.cache
+C:\Users\Bruno\Documents\evandro\exercicios\ex27\ex27\obj\Debug\netcoreapp3.1\ex27.AssemblyInfoInputs.cache
+C:\Users\Bruno\Documents\evandro\exercicios\ex27\ex27\obj\Debug\netcoreapp3.1\ex27.AssemblyInfo.cs
+C:\Users\Bruno\Documents\evandro\exercicios\ex27\ex27\obj\Debug\netcoreapp3.1\ex27.dll
+C:\Users\Bruno\Documents\evandro\exercicios\ex27\ex27\obj\Debug\netcoreapp3.1\ex27.pdb
+C:\Users\Bruno\Documents\evandro\exercicios\ex27\ex27\obj\Debug\netcoreapp3.1\ex27.genruntimeconfig.cache

@@ -1,0 +1,26 @@
+C:\Users\jacki\source\repos\Questao 16\obj\Debug\netcoreapp3.1\Questao 16.csprojAssemblyReference.cache
+C:\Users\jacki\source\repos\Questao 16\obj\Debug\netcoreapp3.1\Questao 16.csproj.CoreCompileInputs.cache
+C:\Users\jacki\source\repos\Questao 16\obj\Debug\netcoreapp3.1\Questao 16.AssemblyInfoInputs.cache
+C:\Users\jacki\source\repos\Questao 16\obj\Debug\netcoreapp3.1\Questao 16.AssemblyInfo.cs
+C:\Users\jacki\source\repos\Questao 16\bin\Debug\netcoreapp3.1\Questao 16.exe
+C:\Users\jacki\source\repos\Questao 16\bin\Debug\netcoreapp3.1\Questao 16.deps.json
+C:\Users\jacki\source\repos\Questao 16\bin\Debug\netcoreapp3.1\Questao 16.runtimeconfig.json
+C:\Users\jacki\source\repos\Questao 16\bin\Debug\netcoreapp3.1\Questao 16.runtimeconfig.dev.json
+C:\Users\jacki\source\repos\Questao 16\bin\Debug\netcoreapp3.1\Questao 16.dll
+C:\Users\jacki\source\repos\Questao 16\bin\Debug\netcoreapp3.1\Questao 16.pdb
+C:\Users\jacki\source\repos\Questao 16\obj\Debug\netcoreapp3.1\Questao 16.dll
+C:\Users\jacki\source\repos\Questao 16\obj\Debug\netcoreapp3.1\Questao 16.pdb
+C:\Users\jacki\source\repos\Questao 16\obj\Debug\netcoreapp3.1\Questao 16.genruntimeconfig.cache
+C:\Toledo\Lista 1 - 15\Questao 16\bin\Debug\netcoreapp3.1\Questao 16.exe
+C:\Toledo\Lista 1 - 15\Questao 16\bin\Debug\netcoreapp3.1\Questao 16.deps.json
+C:\Toledo\Lista 1 - 15\Questao 16\bin\Debug\netcoreapp3.1\Questao 16.runtimeconfig.json
+C:\Toledo\Lista 1 - 15\Questao 16\bin\Debug\netcoreapp3.1\Questao 16.runtimeconfig.dev.json
+C:\Toledo\Lista 1 - 15\Questao 16\bin\Debug\netcoreapp3.1\Questao 16.dll
+C:\Toledo\Lista 1 - 15\Questao 16\bin\Debug\netcoreapp3.1\Questao 16.pdb
+C:\Toledo\Lista 1 - 15\Questao 16\obj\Debug\netcoreapp3.1\Questao 16.csprojAssemblyReference.cache
+C:\Toledo\Lista 1 - 15\Questao 16\obj\Debug\netcoreapp3.1\Questao 16.csproj.CoreCompileInputs.cache
+C:\Toledo\Lista 1 - 15\Questao 16\obj\Debug\netcoreapp3.1\Questao 16.AssemblyInfoInputs.cache
+C:\Toledo\Lista 1 - 15\Questao 16\obj\Debug\netcoreapp3.1\Questao 16.AssemblyInfo.cs
+C:\Toledo\Lista 1 - 15\Questao 16\obj\Debug\netcoreapp3.1\Questao 16.dll
+C:\Toledo\Lista 1 - 15\Questao 16\obj\Debug\netcoreapp3.1\Questao 16.pdb
+C:\Toledo\Lista 1 - 15\Questao 16\obj\Debug\netcoreapp3.1\Questao 16.genruntimeconfig.cache

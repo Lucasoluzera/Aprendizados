@@ -1,0 +1,13 @@
+C:\Users\jacki\source\repos\Questao 20\bin\Debug\netcoreapp3.1\Questao 20.exe
+C:\Users\jacki\source\repos\Questao 20\bin\Debug\netcoreapp3.1\Questao 20.deps.json
+C:\Users\jacki\source\repos\Questao 20\bin\Debug\netcoreapp3.1\Questao 20.runtimeconfig.json
+C:\Users\jacki\source\repos\Questao 20\bin\Debug\netcoreapp3.1\Questao 20.runtimeconfig.dev.json
+C:\Users\jacki\source\repos\Questao 20\bin\Debug\netcoreapp3.1\Questao 20.dll
+C:\Users\jacki\source\repos\Questao 20\bin\Debug\netcoreapp3.1\Questao 20.pdb
+C:\Users\jacki\source\repos\Questao 20\obj\Debug\netcoreapp3.1\Questao 20.csprojAssemblyReference.cache
+C:\Users\jacki\source\repos\Questao 20\obj\Debug\netcoreapp3.1\Questao 20.csproj.CoreCompileInputs.cache
+C:\Users\jacki\source\repos\Questao 20\obj\Debug\netcoreapp3.1\Questao 20.AssemblyInfoInputs.cache
+C:\Users\jacki\source\repos\Questao 20\obj\Debug\netcoreapp3.1\Questao 20.AssemblyInfo.cs
+C:\Users\jacki\source\repos\Questao 20\obj\Debug\netcoreapp3.1\Questao 20.dll
+C:\Users\jacki\source\repos\Questao 20\obj\Debug\netcoreapp3.1\Questao 20.pdb
+C:\Users\jacki\source\repos\Questao 20\obj\Debug\netcoreapp3.1\Questao 20.genruntimeconfig.cache
