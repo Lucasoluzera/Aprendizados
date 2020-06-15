@@ -1,0 +1,10 @@
+CREATE DATABASE Farmacia;
+
+CREATE TABLE `Farmacia`.`Usuario` ( 
+
+`id_user` INT NOT NULL AUTO_INCREMENT PRIMARY KEY,
+`user` VARCHAR(80) NOT NULL, 
+`password` VARCHAR(20) NOT NULL, 
+`numero_vendas` INT NOT NULL
+
+);

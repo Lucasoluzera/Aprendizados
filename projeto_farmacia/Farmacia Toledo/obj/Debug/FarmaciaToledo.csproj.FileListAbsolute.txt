@@ -1,0 +1,97 @@
+C:\Users\Bruno\Documents\Faculdade\farmacia-toledo-corretissimo\Farmacia Toledo\bin\Debug\Farmacia Toledo.exe.config
+C:\Users\Bruno\Documents\Faculdade\farmacia-toledo-corretissimo\Farmacia Toledo\bin\Debug\Farmacia Toledo.exe
+C:\Users\Bruno\Documents\Faculdade\farmacia-toledo-corretissimo\Farmacia Toledo\bin\Debug\Farmacia Toledo.pdb
+C:\Users\Bruno\Documents\Faculdade\farmacia-toledo-corretissimo\Farmacia Toledo\bin\Debug\MySql.Data.dll
+C:\Users\Bruno\Documents\Faculdade\farmacia-toledo-corretissimo\Farmacia Toledo\bin\Debug\Google.Protobuf.dll
+C:\Users\Bruno\Documents\Faculdade\farmacia-toledo-corretissimo\Farmacia Toledo\bin\Debug\Zstandard.Net.dll
+C:\Users\Bruno\Documents\Faculdade\farmacia-toledo-corretissimo\Farmacia Toledo\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Bruno\Documents\Faculdade\farmacia-toledo-corretissimo\Farmacia Toledo\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Bruno\Documents\Faculdade\farmacia-toledo-corretissimo\Farmacia Toledo\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\Bruno\Documents\Faculdade\farmacia-toledo-corretissimo\Farmacia Toledo\bin\Debug\Renci.SshNet.dll
+C:\Users\Bruno\Documents\Faculdade\farmacia-toledo-corretissimo\Farmacia Toledo\bin\Debug\System.Buffers.dll
+C:\Users\Bruno\Documents\Faculdade\farmacia-toledo-corretissimo\Farmacia Toledo\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Bruno\Documents\Faculdade\farmacia-toledo-corretissimo\Farmacia Toledo\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Bruno\Documents\Faculdade\farmacia-toledo-corretissimo\Farmacia Toledo\bin\Debug\System.Memory.dll
+C:\Users\Bruno\Documents\Faculdade\farmacia-toledo-corretissimo\Farmacia Toledo\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Bruno\Documents\Faculdade\farmacia-toledo-corretissimo\Farmacia Toledo\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Bruno\Documents\Faculdade\farmacia-toledo-corretissimo\Farmacia Toledo\bin\Debug\MySql.Data.xml
+C:\Users\Bruno\Documents\Faculdade\farmacia-toledo-corretissimo\Farmacia Toledo\obj\Debug\Farmacia Toledo.exe.config
+C:\Users\Bruno\Documents\Faculdade\farmacia-toledo-corretissimo\Farmacia Toledo\obj\Debug\Farmacia_Toledo.FormLoginFarmacia.resources
+C:\Users\Bruno\Documents\Faculdade\farmacia-toledo-corretissimo\Farmacia Toledo\obj\Debug\Farmacia_Toledo.Properties.Resources.resources
+C:\Users\Bruno\Documents\Faculdade\farmacia-toledo-corretissimo\Farmacia Toledo\obj\Debug\FarmaciaToledo.csproj.GenerateResource.cache
+C:\Users\Bruno\Documents\Faculdade\farmacia-toledo-corretissimo\Farmacia Toledo\obj\Debug\FarmaciaToledo.csproj.CoreCompileInputs.cache
+C:\Users\Bruno\Documents\Faculdade\farmacia-toledo-corretissimo\Farmacia Toledo\obj\Debug\FarmaciaToledo.csproj.CopyComplete
+C:\Users\Bruno\Documents\Faculdade\farmacia-toledo-corretissimo\Farmacia Toledo\obj\Debug\Farmacia Toledo.exe
+C:\Users\Bruno\Documents\Faculdade\farmacia-toledo-corretissimo\Farmacia Toledo\obj\Debug\Farmacia Toledo.pdb
+C:\Users\Bruno\Documents\Faculdade\farmacia-toledo-corretissimo\Farmacia Toledo\obj\Debug\FarmaciaToledo.csprojAssemblyReference.cache
+C:\Users\Bruno\Documents\Faculdade\farmacia-toledo-corretissimo\Farmacia Toledo\bin\Debug\Bunifu_UI_v1.5.3.dll
+C:\Users\Bruno\Documents\Faculdade\farmacia-toledo-corretissimo\Farmacia Toledo\obj\Debug\Farmacia_Toledo.dashboard.resources
+C:\Users\Bruno\Documents\Faculdade\farmacia-toledo-corretissimo\Farmacia Toledo\obj\Debug\Farmacia_Toledo.homeUserControl.resources
+C:\Toledo\Farmacia\projeto_farmacia\Farmacia Toledo\bin\Debug\Farmacia Toledo.exe.config
+C:\Toledo\Farmacia\projeto_farmacia\Farmacia Toledo\bin\Debug\Farmacia Toledo.exe
+C:\Toledo\Farmacia\projeto_farmacia\Farmacia Toledo\bin\Debug\Farmacia Toledo.pdb
+C:\Toledo\Farmacia\projeto_farmacia\Farmacia Toledo\bin\Debug\MySql.Data.dll
+C:\Toledo\Farmacia\projeto_farmacia\Farmacia Toledo\bin\Debug\Google.Protobuf.dll
+C:\Toledo\Farmacia\projeto_farmacia\Farmacia Toledo\bin\Debug\Zstandard.Net.dll
+C:\Toledo\Farmacia\projeto_farmacia\Farmacia Toledo\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Toledo\Farmacia\projeto_farmacia\Farmacia Toledo\bin\Debug\BouncyCastle.Crypto.dll
+C:\Toledo\Farmacia\projeto_farmacia\Farmacia Toledo\bin\Debug\Ubiety.Dns.Core.dll
+C:\Toledo\Farmacia\projeto_farmacia\Farmacia Toledo\bin\Debug\Renci.SshNet.dll
+C:\Toledo\Farmacia\projeto_farmacia\Farmacia Toledo\bin\Debug\System.Buffers.dll
+C:\Toledo\Farmacia\projeto_farmacia\Farmacia Toledo\bin\Debug\K4os.Compression.LZ4.dll
+C:\Toledo\Farmacia\projeto_farmacia\Farmacia Toledo\bin\Debug\K4os.Hash.xxHash.dll
+C:\Toledo\Farmacia\projeto_farmacia\Farmacia Toledo\bin\Debug\System.Memory.dll
+C:\Toledo\Farmacia\projeto_farmacia\Farmacia Toledo\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Toledo\Farmacia\projeto_farmacia\Farmacia Toledo\bin\Debug\System.Numerics.Vectors.dll
+C:\Toledo\Farmacia\projeto_farmacia\Farmacia Toledo\bin\Debug\MySql.Data.xml
+C:\Toledo\Farmacia\projeto_farmacia\Farmacia Toledo\obj\Debug\Farmacia Toledo.exe.config
+C:\Toledo\Farmacia\projeto_farmacia\Farmacia Toledo\obj\Debug\Farmacia_Toledo.dashboard.resources
+C:\Toledo\Farmacia\projeto_farmacia\Farmacia Toledo\obj\Debug\Farmacia_Toledo.FormLoginFarmacia.resources
+C:\Toledo\Farmacia\projeto_farmacia\Farmacia Toledo\obj\Debug\Farmacia_Toledo.homeUserControl.resources
+C:\Toledo\Farmacia\projeto_farmacia\Farmacia Toledo\obj\Debug\Farmacia_Toledo.Properties.Resources.resources
+C:\Toledo\Farmacia\projeto_farmacia\Farmacia Toledo\obj\Debug\FarmaciaToledo.csproj.GenerateResource.cache
+C:\Toledo\Farmacia\projeto_farmacia\Farmacia Toledo\obj\Debug\FarmaciaToledo.csproj.CoreCompileInputs.cache
+C:\Toledo\Farmacia\projeto_farmacia\Farmacia Toledo\obj\Debug\FarmaciaToledo.csproj.CopyComplete
+C:\Toledo\Farmacia\projeto_farmacia\Farmacia Toledo\obj\Debug\Farmacia Toledo.exe
+C:\Toledo\Farmacia\projeto_farmacia\Farmacia Toledo\obj\Debug\Farmacia Toledo.pdb
+C:\Toledo\Farmacia\projeto_farmacia\Farmacia Toledo\obj\Debug\Farmacia_Toledo.homeEstoqueControl.resources
+C:\Toledo\Farmacia\projeto_farmacia\Farmacia Toledo\obj\Debug\Farmacia_Toledo.ProdutoForm.resources
+C:\Toledo\Farmacia\projeto_farmacia\Farmacia Toledo\obj\Debug\FarmaciaToledo.csprojAssemblyReference.cache
+C:\Users\Bruno\Documents\Faculdade\projeto_farmacia\Farmacia Toledo\bin\Debug\Farmacia Toledo.exe.config
+C:\Users\Bruno\Documents\Faculdade\projeto_farmacia\Farmacia Toledo\bin\Debug\Farmacia Toledo.exe
+C:\Users\Bruno\Documents\Faculdade\projeto_farmacia\Farmacia Toledo\bin\Debug\Farmacia Toledo.pdb
+C:\Users\Bruno\Documents\Faculdade\projeto_farmacia\Farmacia Toledo\bin\Debug\Bunifu_UI_v1.5.3.dll
+C:\Users\Bruno\Documents\Faculdade\projeto_farmacia\Farmacia Toledo\bin\Debug\MySql.Data.dll
+C:\Users\Bruno\Documents\Faculdade\projeto_farmacia\Farmacia Toledo\bin\Debug\Google.Protobuf.dll
+C:\Users\Bruno\Documents\Faculdade\projeto_farmacia\Farmacia Toledo\bin\Debug\Zstandard.Net.dll
+C:\Users\Bruno\Documents\Faculdade\projeto_farmacia\Farmacia Toledo\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Bruno\Documents\Faculdade\projeto_farmacia\Farmacia Toledo\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Bruno\Documents\Faculdade\projeto_farmacia\Farmacia Toledo\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\Bruno\Documents\Faculdade\projeto_farmacia\Farmacia Toledo\bin\Debug\Renci.SshNet.dll
+C:\Users\Bruno\Documents\Faculdade\projeto_farmacia\Farmacia Toledo\bin\Debug\System.Buffers.dll
+C:\Users\Bruno\Documents\Faculdade\projeto_farmacia\Farmacia Toledo\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Bruno\Documents\Faculdade\projeto_farmacia\Farmacia Toledo\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Bruno\Documents\Faculdade\projeto_farmacia\Farmacia Toledo\bin\Debug\System.Memory.dll
+C:\Users\Bruno\Documents\Faculdade\projeto_farmacia\Farmacia Toledo\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Bruno\Documents\Faculdade\projeto_farmacia\Farmacia Toledo\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Bruno\Documents\Faculdade\projeto_farmacia\Farmacia Toledo\bin\Debug\MySql.Data.xml
+C:\Users\Bruno\Documents\Faculdade\projeto_farmacia\Farmacia Toledo\obj\Debug\Farmacia Toledo.exe.config
+C:\Users\Bruno\Documents\Faculdade\projeto_farmacia\Farmacia Toledo\obj\Debug\Farmacia_Toledo.dashboard.resources
+C:\Users\Bruno\Documents\Faculdade\projeto_farmacia\Farmacia Toledo\obj\Debug\Farmacia_Toledo.FormLoginFarmacia.resources
+C:\Users\Bruno\Documents\Faculdade\projeto_farmacia\Farmacia Toledo\obj\Debug\Farmacia_Toledo.HomeEstoqueControl.resources
+C:\Users\Bruno\Documents\Faculdade\projeto_farmacia\Farmacia Toledo\obj\Debug\Farmacia_Toledo.homeUserControl.resources
+C:\Users\Bruno\Documents\Faculdade\projeto_farmacia\Farmacia Toledo\obj\Debug\Farmacia_Toledo.ProdutoForm.resources
+C:\Users\Bruno\Documents\Faculdade\projeto_farmacia\Farmacia Toledo\obj\Debug\Farmacia_Toledo.Properties.Resources.resources
+C:\Users\Bruno\Documents\Faculdade\projeto_farmacia\Farmacia Toledo\obj\Debug\FarmaciaToledo.csproj.GenerateResource.cache
+C:\Users\Bruno\Documents\Faculdade\projeto_farmacia\Farmacia Toledo\obj\Debug\FarmaciaToledo.csproj.CoreCompileInputs.cache
+C:\Users\Bruno\Documents\Faculdade\projeto_farmacia\Farmacia Toledo\obj\Debug\FarmaciaToledo.csproj.CopyComplete
+C:\Users\Bruno\Documents\Faculdade\projeto_farmacia\Farmacia Toledo\obj\Debug\Farmacia Toledo.exe
+C:\Users\Bruno\Documents\Faculdade\projeto_farmacia\Farmacia Toledo\obj\Debug\Farmacia Toledo.pdb
+C:\Users\Bruno\Documents\Faculdade\projeto_farmacia\Farmacia Toledo\obj\Debug\Farmacia_Toledo.UserControl1.resources
+C:\Users\Bruno\Documents\Faculdade\projeto_farmacia\Farmacia Toledo\obj\Debug\Farmacia_Toledo.DAO.UserForm.resources
+C:\Users\Bruno\Documents\Faculdade\projeto_farmacia\Farmacia Toledo\obj\Debug\FarmaciaToledo.csprojAssemblyReference.cache
+C:\Users\Bruno\Documents\Faculdade\projeto_farmacia\Farmacia Toledo\obj\Debug\Farmacia_Toledo.DeleteUserForm.resources
+C:\Toledo\Farmacia\projeto_farmacia\Farmacia Toledo\obj\Debug\Farmacia_Toledo.DAO.UserForm.resources
+C:\Toledo\Farmacia\projeto_farmacia\Farmacia Toledo\obj\Debug\Farmacia_Toledo.UserControl1.resources
+C:\Toledo\Farmacia\projeto_farmacia\Farmacia Toledo\obj\Debug\Farmacia_Toledo.homeVendaControl.resources
+C:\Toledo\Farmacia\projeto_farmacia\Farmacia Toledo\obj\Debug\Farmacia_Toledo.VendaForm.resources

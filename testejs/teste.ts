@@ -1,4 +1,5 @@
 let valor: string;
 
-valor = null;
+valor = 'Isso é uma string';
+console.log(valor);
 
