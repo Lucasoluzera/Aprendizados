@@ -1,0 +1,8 @@
+CREATE TABLE `Farmacia`.`Venda` (
+`id_venda` INT NOT NULL AUTO_INCREMENT PRIMARY KEY,
+`data_venda` timestamp,
+`nome_produto` VARCHAR(30),
+`quantidade` INT,
+`responsavel_venda` VARCHAR(30),
+`valor_venda` DOUBLE
+);

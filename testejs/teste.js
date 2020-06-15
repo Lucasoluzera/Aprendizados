@@ -1,2 +1,3 @@
 var valor;
-valor = null;
+valor = 'Isso é uma string';
+console.log(valor);
