@@ -1,0 +1,26 @@
+C:\Users\Bruno\Documents\evandro\exercicios\ex26\ex26\bin\Debug\netcoreapp3.1\ex26.exe
+C:\Users\Bruno\Documents\evandro\exercicios\ex26\ex26\bin\Debug\netcoreapp3.1\ex26.deps.json
+C:\Users\Bruno\Documents\evandro\exercicios\ex26\ex26\bin\Debug\netcoreapp3.1\ex26.runtimeconfig.json
+C:\Users\Bruno\Documents\evandro\exercicios\ex26\ex26\bin\Debug\netcoreapp3.1\ex26.runtimeconfig.dev.json
+C:\Users\Bruno\Documents\evandro\exercicios\ex26\ex26\bin\Debug\netcoreapp3.1\ex26.dll
+C:\Users\Bruno\Documents\evandro\exercicios\ex26\ex26\bin\Debug\netcoreapp3.1\ex26.pdb
+C:\Users\Bruno\Documents\evandro\exercicios\ex26\ex26\obj\Debug\netcoreapp3.1\ex26.csprojAssemblyReference.cache
+C:\Users\Bruno\Documents\evandro\exercicios\ex26\ex26\obj\Debug\netcoreapp3.1\ex26.csproj.CoreCompileInputs.cache
+C:\Users\Bruno\Documents\evandro\exercicios\ex26\ex26\obj\Debug\netcoreapp3.1\ex26.AssemblyInfoInputs.cache
+C:\Users\Bruno\Documents\evandro\exercicios\ex26\ex26\obj\Debug\netcoreapp3.1\ex26.AssemblyInfo.cs
+C:\Users\Bruno\Documents\evandro\exercicios\ex26\ex26\obj\Debug\netcoreapp3.1\ex26.dll
+C:\Users\Bruno\Documents\evandro\exercicios\ex26\ex26\obj\Debug\netcoreapp3.1\ex26.pdb
+C:\Users\Bruno\Documents\evandro\exercicios\ex26\ex26\obj\Debug\netcoreapp3.1\ex26.genruntimeconfig.cache
+C:\Toledo\Lista 1 - 15\ex26\ex26\bin\Debug\netcoreapp3.1\ex26.exe
+C:\Toledo\Lista 1 - 15\ex26\ex26\bin\Debug\netcoreapp3.1\ex26.deps.json
+C:\Toledo\Lista 1 - 15\ex26\ex26\bin\Debug\netcoreapp3.1\ex26.runtimeconfig.json
+C:\Toledo\Lista 1 - 15\ex26\ex26\bin\Debug\netcoreapp3.1\ex26.runtimeconfig.dev.json
+C:\Toledo\Lista 1 - 15\ex26\ex26\bin\Debug\netcoreapp3.1\ex26.dll
+C:\Toledo\Lista 1 - 15\ex26\ex26\bin\Debug\netcoreapp3.1\ex26.pdb
+C:\Toledo\Lista 1 - 15\ex26\ex26\obj\Debug\netcoreapp3.1\ex26.csprojAssemblyReference.cache
+C:\Toledo\Lista 1 - 15\ex26\ex26\obj\Debug\netcoreapp3.1\ex26.csproj.CoreCompileInputs.cache
+C:\Toledo\Lista 1 - 15\ex26\ex26\obj\Debug\netcoreapp3.1\ex26.AssemblyInfoInputs.cache
+C:\Toledo\Lista 1 - 15\ex26\ex26\obj\Debug\netcoreapp3.1\ex26.AssemblyInfo.cs
+C:\Toledo\Lista 1 - 15\ex26\ex26\obj\Debug\netcoreapp3.1\ex26.dll
+C:\Toledo\Lista 1 - 15\ex26\ex26\obj\Debug\netcoreapp3.1\ex26.pdb
+C:\Toledo\Lista 1 - 15\ex26\ex26\obj\Debug\netcoreapp3.1\ex26.genruntimeconfig.cache
