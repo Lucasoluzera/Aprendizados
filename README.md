@@ -17,7 +17,7 @@ Linguagens usadas/Frameworks: Angular 9, JS, JSON Server, JAVA 8.
 ### Angular-crud-udemy
 Projeto usado para estudo de angular, nele contém um CRUD simples sobre um app de criações de eventos. Para rodar o projeto é necessário
 rodar o comando `ng install` na pasta do projeto para baixar as dependencias. Depois executar o  `npm start` tanto no frontend 
-como no backend.
+como no backend, o backend foi desenvolvido em JSON server.
 
 
 ### Primeiro-Projeto
