@@ -36,6 +36,12 @@ Projeto desenvolvido para controle de compras e vendas dentro de uma farmacia. S
 ### Listas Faculdades
 Listas de exercícios feitas por mim em C#.
 
+
+### OCR-TESTINGS
+Testei de diferentes formas o ocr desenvolvido pela Tesseract para java[(Tess4j)](http://tess4j.sourceforge.net/), testei ele com leituras tanto com pdfs nativos quanto com pdfs convertidos, testei eles excessivamente com pdfs de diferentes tipos, deixei somente um pois alguns são arquivos confidenciais.
+
+#### Resultados
+Os resultados que obtive foi relativo, é uma linha tênue entre qualidade de leitura e velocidade, se você escolher o caminho mais rápido é capaz que perca qualidade de leitura, PDFBox foi o mais rápido porém com pdfs que possuem imagens ele não deu tão certo, tesseract é completo por ser um código aberto e de fácil manuseio, em questões de velocidade usando o Tess eu tive diferenças em segundos e uma leitura um pouco compremetida o que pra mim não valeu tanto a pena.
 # Learning EN-US
 In this repository you will find projects that I used for studies, and even TCCs for college.
 Languages used / Frameworks: Angular 9, JS, JSON Server, JAVA 8.
@@ -71,3 +77,10 @@ Project developed to control purchases and sales within a pharmacy. System prese
 
 ### Listas Faculdades
 Exercise lists made by me in C #.
+
+
+### OCR-TESTINGS
+I tested the ocr developed by Tesseract for java in different ways [(Tess4j)] (http://tess4j.sourceforge.net/), I tested it with readings with both native and converted pdfs, I tested them excessively with pdfs of different types , I left only one because some are confidential files,
+
+#### Results
+The results I got were relative, it's a fine line between reading quality and speed, if you choose the fastest path you can lose reading quality, PDFBox was the fastest but with PDFs that have images it didn't work so well, tesseract is complete because it is open source and easy to handle, in terms of speed using Tess I had differences in seconds and a little compromised reading which for me was not so worth it.
